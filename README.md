@@ -80,7 +80,7 @@ Budget and totals update in real time
 This flow ensures single source of truth and avoids manual DOM manipulation.
 
 ⚙️ Installation & Setup
-git clone https://github.com/your-username/expense-tracker-react.git
+git clone https://github.com/anoopcodehack/expense-tracker-react.git
 cd expense-tracker-react
 npm install
 npm run dev
